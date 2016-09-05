@@ -1,7 +1,3 @@
-#include<iostream>
+#hello, first time GitHub
 
-using namespce std;
-
-int main() {
-  cout << "hello world! << endl;
-}
+very glad be a member of GitHub
